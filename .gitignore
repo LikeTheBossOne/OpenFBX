@@ -38,6 +38,7 @@ runtime/imgui.ini
 # Directories
 bin/
 bin-int/
+Debug/
 
 ## Visual Studio artifacts
 .vs
